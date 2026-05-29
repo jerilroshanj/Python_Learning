@@ -1,2 +1,3 @@
 # Python_Learning
-I'll master Python soon and it will be the proof of it.
+Learning Python from scratch.
+This repository contains my practice programs, exercises, and projects.
